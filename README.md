@@ -1,2 +1,3 @@
 ﻿# My-Portfolio
-hello my nake is kashish
+hello my name is kashish
+current i hane done my graduation
